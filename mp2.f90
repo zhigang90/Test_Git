@@ -1,1 +1,4 @@
-This is just an example. It is not a real code.
+This is just an example. 
+get molecule
+get basis set
+get scf data
