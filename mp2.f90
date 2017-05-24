@@ -1,6 +1,6 @@
 This is just an example. 
-get molecule
-get basis functions
+get molecule information.
+get basis set
 get scf data
 do localization here.
 first half integral transformation
