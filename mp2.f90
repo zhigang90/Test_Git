@@ -1,8 +1,8 @@
 This is just an example. 
-get molecule information.
+get molecule
 get basis set
 get scf data
-do localization here.
+do PM localization here.
 first half integral transformation
 second half integral transformation
 get mp2 energy
