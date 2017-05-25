@@ -1,5 +1,5 @@
 This is just an example. 
-get molecule
+get molecule information
 get basis functions
 get scf data
 do localization here.
